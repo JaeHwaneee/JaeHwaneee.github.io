@@ -1,0 +1,15 @@
+---
+layout: post
+title: Hello~
+date: 2023-06-08 12:21:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: hi.jpeg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [First Posts, Hello]
+permalink: 'post/hello/'
+comments: true
+---
+안녕하세요~
+
+## 잘 부탁합니다~!
+백엔드 개발 공부중이에요
